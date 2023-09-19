@@ -66,4 +66,10 @@ cd sonarqube-9.4.0.54424/bin/linux-x86-64/
 Hurray !! Now you can access the `SonarQube Server` on `http://<ip-address>:9000` 
 #admin admin is the default username and password
 
+After that,  How will jenkins authenticate with sonar?
+Ans - go to sonarqube,click on MyAccount-->Security---> name token as jenkins-->click generate button
+![image](https://github.com/AshutoshKumar99/abhishek_jenkins_zerotohero/assets/29033951/8179d316-ac77-47d6-9ac7-3d02e77af2ce)
+![image](https://github.com/AshutoshKumar99/abhishek_jenkins_zerotohero/assets/29033951/d0cda570-8c5f-4463-ad29-f6f6e3cd2a3a)
+Now my sonarqube config. is also done
+
 
