@@ -107,7 +107,7 @@ Wait for the Jenkins to be restarted.
 
 ## Docker Slave Configuration
 
-Run the below command to Install Docker
+Run the below command to Install Docker, install docker as root user
 
 ```
 sudo apt update
